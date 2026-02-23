@@ -1,0 +1,100 @@
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 3
+Transaction ID: TXN17714936136670
+Event Type: COMEDY
+Event Name: Thoda Saaf Bol
+Venue: Stand-Up Central Paldi
+User Email: yugam@gmail.com
+Show Date: 2026-02-19
+Show Time: 7:00 PM
+Tickets Booked: 1
+Seat Numbers: C1
+Total Amount: ₹500
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-19 15:03:33
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 5
+Transaction ID: TXN17715244141683
+Event Type: COMEDY
+Event Name: Pretentious Movie Reviews
+Venue: Comedy Central Maninagar
+User Email: dhruvalpatel@gmail.com
+Show Date: 2026-02-21
+Show Time: 6:30 PM
+Tickets Booked: 1
+Seat Numbers: C1
+Total Amount: ₹550
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-19 23:36:54
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 8
+Transaction ID: TXN17715558903975
+Event Type: COMEDY
+Event Name: Thoda Saaf Bol
+Venue: Comedy Central Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 7:00 PM
+Tickets Booked: 5
+Seat Numbers: C1, C2, C3, C4, C5
+Total Amount: ₹2500
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 08:21:30
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 13
+Transaction ID: TXN17715561241416
+Event Type: COMEDY
+Event Name: The Kapil Sharma Show Live
+Venue: Comedy Central Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 8:30 PM
+Tickets Booked: 4
+Seat Numbers: C1, C2, C3, C4
+Total Amount: ₹2000
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 08:25:24
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 19
+Transaction ID: TXN17715667843508
+Event Type: COMEDY
+Event Name: Pretentious Movie Reviews
+Venue: Comedy Central Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 6:30 PM
+Tickets Booked: 1
+Seat Numbers: C1
+Total Amount: ₹550
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 11:23:04
+============================================================
+

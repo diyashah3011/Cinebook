@@ -1,0 +1,120 @@
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 4
+Transaction ID: TXN17715241972766
+Event Type: CONCERT
+Event Name: Arijit Singh Live
+Venue: Music Hall Maninagar
+User Email: dhruvalpatel@gmail.com
+Show Date: 2026-02-20
+Show Time: 9:30 PM
+Tickets Booked: 1
+Seat Numbers: M1
+Total Amount: ₹1000
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-19 23:33:17
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 9
+Transaction ID: TXN17715559447404
+Event Type: CONCERT
+Event Name: Arijit Singh Live
+Venue: Music Hall Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-21
+Show Time: 7:00 PM
+Tickets Booked: 6
+Seat Numbers: M1, M2, M3, M4, M5, M6
+Total Amount: ₹6000
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 08:22:24
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 10
+Transaction ID: TXN17715560141522
+Event Type: CONCERT
+Event Name: Bollywood Diva Live
+Venue: Music Hall Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-22
+Show Time: 7:15 PM
+Tickets Booked: 7
+Seat Numbers: M1, M2, M3, M4, M5, M6, M7
+Total Amount: ₹6300
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 08:23:34
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 12
+Transaction ID: TXN17715560828585
+Event Type: CONCERT
+Event Name: Arijit Singh Live
+Venue: Music Hall Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 9:30 PM
+Tickets Booked: 5
+Seat Numbers: M1, M2, M3, M4, M5
+Total Amount: ₹5000
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 08:24:42
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 16
+Transaction ID: TXN17715649537458
+Event Type: CONCERT
+Event Name: Rahman Live Concert
+Venue: Music Hall Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 9:00 PM
+Tickets Booked: 3
+Seat Numbers: M1, M2, M3
+Total Amount: ₹4500
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 10:52:33
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 17
+Transaction ID: TXN17715650455598
+Event Type: CONCERT
+Event Name: Rahman Live Concert
+Venue: Music Hall Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 9:00 PM
+Tickets Booked: 5
+Seat Numbers: M1, M2, M3, M4, M5
+Total Amount: ₹7500
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 10:54:05
+============================================================
+

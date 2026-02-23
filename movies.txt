@@ -1,0 +1,160 @@
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 1
+Transaction ID: TXN17714925131315
+Event Type: MOVIE
+Event Name: The Notebook
+Venue: INOX Satellite Mall
+User Email: diyashah5581@gmail.com
+Show Date: 2026-02-19
+Show Time: 1:45 PM
+Tickets Booked: 1
+Seat Numbers: B5
+Total Amount: ₹413
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-19 14:45:13
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 2
+Transaction ID: TXN17714932516014
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Paldi Central
+User Email: yugam@gmail.com
+Show Date: 2026-02-19
+Show Time: 2:00 PM
+Tickets Booked: 1
+Seat Numbers: A3
+Total Amount: ₹472
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-19 14:57:31
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 6
+Transaction ID: TXN17715245751918
+Event Type: MOVIE
+Event Name: Casablanca
+Venue: Miraj Satellite
+User Email: devanshpatel@gmail.com
+Show Date: 2026-02-20
+Show Time: 6:15 PM
+Tickets Booked: 2
+Seat Numbers: B4, H2
+Total Amount: ₹649
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-19 23:39:35
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 7
+Transaction ID: TXN17715558501946
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Maninagar Central
+User Email: devansh@gmail.com
+Show Date: 2026-02-21
+Show Time: 5:30 PM
+Tickets Booked: 2
+Seat Numbers: A4, B5
+Total Amount: ₹885
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 08:20:50
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 11
+Transaction ID: TXN17715560442539
+Event Type: MOVIE
+Event Name: Welcome
+Venue: Rajhans Maninagar
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 5:00 PM
+Tickets Booked: 3
+Seat Numbers: A4, B5, C5
+Total Amount: ₹1239
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 08:24:04
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 14
+Transaction ID: TXN17715643246923
+Event Type: MOVIE
+Event Name: Golmaal
+Venue: Cinepolis Paldi
+User Email: dh@gmail.com
+Show Date: 2026-02-21
+Show Time: 1:15 PM
+Tickets Booked: 1
+Seat Numbers: A5
+Total Amount: ₹472
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 10:42:04
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 15
+Transaction ID: TXN17715648755548
+Event Type: MOVIE
+Event Name: Hera Pheri
+Venue: INOX Maninagar Plaza
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 1:30 PM
+Tickets Booked: 3
+Seat Numbers: A5, F4, F3
+Total Amount: ₹1062
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 10:51:15
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 18
+Transaction ID: TXN17715666619934
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Maninagar Central
+User Email: devansh@gmail.com
+Show Date: 2026-02-20
+Show Time: 2:00 PM
+Tickets Booked: 4
+Seat Numbers: F4, F3, A5, B4
+Total Amount: ₹1475
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-20 11:21:01
+============================================================
+
