@@ -1,4 +1,5 @@
 CineBook 🎟️
+
 A full-stack event booking application built with Python, MySQL, and Streamlit that allows users to book tickets for Movies, Comedy Shows, and Concerts with an interactive seat selection system.
 Features
 
